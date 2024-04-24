@@ -1,0 +1,33 @@
+Title/Header: Washington Trip
+footer: copyright Hannah Overton 2024
+
+main>
+
+h> Purpose of Trip
+p>explain why we went on the trip
+
+
+h1> Getting to Arizona
+p> flight, stay at aunts house, prepare to leave
+img> Arizona
+
+h2> Stop 1- Nevada
+p> drive to nevada, place we camped
+img> Casino
+
+h3> Stop 2- California mountain campsite
+p> drive, camp in mountains, snow, hike
+img> campsite
+
+h4> Stop 3- Camping along oregon river
+p> hiking in redwoods, driving up the coast, camping along river
+img> redwoods, beach pic
+
+h5> Stop 4- Camping with brother at fort Stevens
+p> drive up coast, campsite, frisbee golf, quest-master, light houses
+img> lighthouses, frisbee golf,
+
+h6> Stop 5- Kyle's house
+p> Olympia farmer's market, clamming
+img> clams and injuries
+
