@@ -1,1 +1,28 @@
 /* Write your CSS here! */
+body{
+    color: darkgreen;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwZ0mwKhrasuVe-7wZtl9YoH7GuchTKh8ww&s) fixed;
+    font-family:monospace;
+    font-weight:bolder;
+    width: 100vw;
+    padding: 0 10vw;
+    box-sizing: border-box;
+};
+
+header{
+    text-align: center;
+    font-size: 4rem;
+};
+
+
+h3{
+    text-align: left;
+    font-size: 35px;
+    font-weight: bolder;
+};
+
+.column {
+    float: left;
+    width: 30%;
+    padding: 5px;
+  }
