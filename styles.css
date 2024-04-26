@@ -7,22 +7,33 @@ body{
     width: 100vw;
     padding: 0 10vw;
     box-sizing: border-box;
-};
+    
+}
 
 header{
     text-align: center;
-    font-size: 4rem;
-};
+    font-size: 1rem;
+}
 
 
 h3{
     text-align: left;
-    font-size: 35px;
+    font-size: 20px;
     font-weight: bolder;
-};
-
+}
+.row{
+    align-items:center;
+    display:flex;
+    float:left;
+    padding:0px;
+}
 .column {
+    display:block;
     float: left;
-    width: 30%;
-    padding: 5px;
+    width: 50%;
+    padding: 10px;
+    
   }
+section{
+    text-align: left;
+}
