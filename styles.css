@@ -1,11 +1,13 @@
 /* Write your CSS here! */
 body{
-    color: darkgreen;
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwZ0mwKhrasuVe-7wZtl9YoH7GuchTKh8ww&s) fixed;
+    color: rgb(2, 2, 78);
+    background: url(https://www.wallpaperstogo.com/images/product/icon/254668.jpg) fixed;
     font-family:monospace;
     font-weight:bolder;
     width: 100vw;
     padding: 0 10vw;
+    margin: 8px;
+    display:block;
     box-sizing: border-box;
     
 }
@@ -14,11 +16,26 @@ header{
     text-align: center;
     font-size: 1rem;
 }
+#mainHeading{
+    background-color:lightskyblue;
+    margin: 0 15%;
+    padding: 30px;
+    border-style: solid;
+    border-color: rgb(2, 2, 78);
+    border-width: 16px 4px;
+    border-radius: 40px 0px;
+}
 
+.funParagraph{
+    text-align:center;
+}
+h2{
+    font-size:18pt;
+}
 
 h3{
     text-align: left;
-    font-size: 20px;
+    font-size: 18pt;
     font-weight: bolder;
 }
 .row{
@@ -36,4 +53,8 @@ h3{
   }
 section{
     text-align: left;
+}
+
+p{
+    font-size: 12pt;
 }
